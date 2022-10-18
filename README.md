@@ -8,7 +8,7 @@ In 'document', there is detailed description about these steps decribed above.
 
 The data tables we got after pre-processing are stored in 'tables'.
 
-There are three charts in 'visualization' file, which are to present the data in a visualized way. 
+There are three charts in 'visualize' file, which are to present the data in a visualized way. 
 
 'ERM' shows the entity relational model of our project. And 'relational model' is the relational model.
 
